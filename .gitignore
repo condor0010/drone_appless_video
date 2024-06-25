@@ -1,0 +1,10 @@
+# Ignore pcap files
+*.pcap
+
+# Ignore pcapng files
+*.pcapng
+
+# Ignore mp4 files
+*.mp4
+
+
